@@ -1,0 +1,16 @@
+
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.cursor/
+*.iml
+.ipynb_checkpoints/
+/data/
+/models/
+/baselines/exports/
+*.pickle
+*.pkl
+*.csv
+*.tsv
+*.log
